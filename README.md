@@ -1,7 +1,7 @@
 # Tree_Cover_Model
 
 ## Objective
-To predict the forest cover type (most common kind of tree cover) based on cartographic variables. 
+Predict the forest cover type (most common kind of tree cover) based on cartographic variables. 
 
 Keras is being used to classify the data into 7 types, as listed below 
 * Spruce/Fir
