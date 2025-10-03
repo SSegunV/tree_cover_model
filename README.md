@@ -15,5 +15,8 @@ Keras is being used to classify the data into 7 types, as listed below
 ## How?
 WIP! Will be updated as things move on.
 
+## Strange Things
+Carrying out training on an Apple Silicon Mac. Hence, one or two potential issues with requirements. To address.
+
 ## Data
 [Jock Blackard, Covertype, UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/31/covertype)
